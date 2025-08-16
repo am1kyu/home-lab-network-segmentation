@@ -1,7 +1,7 @@
 # HOME LAB NETWORK SEGMENTATION
 
 ## Objective
-Designed and implemented a segmented home network using VLANs to isolate IoT devices, a personal server, and guest access, enhancing security and network management.
+Designed and implemented a segmented home network using VLANs to isolate IoT devices and a personal server, enhancing security and network management.
 
 ### Skills Learned
 
