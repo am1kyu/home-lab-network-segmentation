@@ -14,7 +14,7 @@ Designed and implemented a segmented home network using VLANs to isolate IoT dev
 ### Tools Used
 
 - Managed switch / router with VLAN support
-- Firewall / Router OS (e.g., pfSense, OpenWrt, Ubiquiti)
+- Firewall / Router OS
 - Wireshark / tcpdump for traffic verification
 - Network management interfaces / CLI for configuration
 
