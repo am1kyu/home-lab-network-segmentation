@@ -1,7 +1,7 @@
 # HOME LAB NETWORK SEGMENTATION
 
 ## Objective
-Deployed a low-interaction honeypot to capture and analyze automated attack patterns. Monitored traffic, logged intrusion attempts, and identified common exploits and attacker origins.
+Designed and implemented a segmented home network using VLANs to isolate IoT devices, a personal server, and guest access, enhancing security and network management.
 
 ### Skills Learned
 
